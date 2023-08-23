@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello 👋
 
 <!--
 **allx-g/allx-g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My name is Alex!
+
+- 🔭 I’m currently working on The Odin Project!
+- 🌱 I’m currently learning DOM manipulation with JavaScript.
+- 💬 Ask me about my experience studying computer science at Amherst College!
+- ⚡ Fun fact: I love sparkling water.
