@@ -1,27 +1,36 @@
-### Hello 👋
 
-<!--
-**allx-g/allx-g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello! 👋
 
-Here are some ideas to get you started:
+My name is *Alex*. I am a *web developer* because I'm obsessed with coding and I care about design. Foryears now, I've been particularly passionate about applications that not only aid, but serve to elevate the student learning experience. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Some of my favorites:
+- Notion
+- Todoist
+- Google Calendar
+- Goodnotes
 
-My name is Alex!
 
-- 🔭 I’m currently working on The Odin Project! Check my pins to see some of my current project submissions.
-- 🌱 I’m currently learning DOM manipulation with JavaScript.
-- 💬 Ask me about my experience studying computer science at Amherst College!
-- ⚡ Fun fact: I love sparkling water.
+### 🌱 What I'm learning:
 
-Contact me through:
+Front-end development:
+
+- Semantic HTML elements
+- DOM manipulation with JavaScript
+- CSS Flexbox
+
+### 💪 Things I'm improving
+
+- Writing clean and useful Git commits
+- Giving functions *one* responsiblity and extracting any extra code out
+- Writing semantic HTML
+
+### 💬 Ask me about...
+- My process learning of self-studying web development (I owe a lot of it to [**The Odin Project**](https://www.theodinproject.com/about)).
+- The college application process as a first-gen student.
+- What it's like studying computer science and math at Amherst College.
+
+
+### Contact me:
 - [LinkedIn](https://www.linkedin.com/in/alexander-guel-2664a626b/)
+- [GitHub](https://github.com/allx-g)
 - [dev.to](https://dev.to/allxg)
