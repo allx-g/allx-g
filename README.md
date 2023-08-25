@@ -1,7 +1,7 @@
 
 # Hello! 👋
 
-My name is *Alex*. I am a *web developer* because I'm obsessed with coding and I care about design. Foryears now, I've been particularly passionate about applications that not only aid, but serve to elevate the student learning experience. 
+My name is *Alex*. I am a *web developer* because I'm obsessed with coding and I care about design. For years now, I've been particularly passionate about applications that not only aid, but serve to elevate the student learning experience. The goal is to learn enough to start making my **own** applications.
 
 Some of my favorites:
 - Notion
