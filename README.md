@@ -1,36 +1,17 @@
+# Hey there! 👋
 
-# Hello! 👋
+I'm *Alex*, a programmer that recently stumbled into the vast land of 🌲 **web app development** 🌲. 
 
-My name is *Alex*. I am a *web developer* because I'm obsessed with coding and I care about design. For years now, I've been particularly passionate about applications that not only aid, but serve to elevate the student learning experience. The goal is to learn enough to start making my **own** applications.
+Right now, I'm studying computer science at [Amherst College](https://www.amherst.edu) where I'm learning all the neat CS theory. Outside of the classroom, I'm reading through articles, working through [*The Odin Project*](https://www.theodinproject.com/about), and planning + building web apps to practice my web dev skills. I'm currently very immersed in learning everything I can about creating web apps and I'm always seeking to learn more. I care a ton about productivity tools, learning apps, study methods, and everything related to **student-learning**. With my web dev abilities, the goal is to create useful applications that make student's lives *a lot* less stresful.
 
-Some of my favorites:
-- Notion
-- Todoist
-- Google Calendar
-- Goodnotes
+### 💻 Programming Languages:
+- HTML, CSS, JavaScript (*the web dev essentials*)
+- Java (*my school's preferred language, and my favorite* 😄)
+- Python (*the first language I really used*).
 
+### 💬 Contact me:
 
-### 🌱 What I'm learning:
-
-Front-end development:
-
-- Semantic HTML elements
-- DOM manipulation with JavaScript
-- CSS Flexbox
-
-### 💪 Things I'm improving
-
-- Writing clean and useful Git commits
-- Giving functions *one* responsiblity and extracting any extra code out
-- Writing semantic HTML
-
-### 💬 Ask me about...
-- My process learning of self-studying web development (I owe a lot of it to [**The Odin Project**](https://www.theodinproject.com/about)).
-- The college application process as a first-gen student.
-- What it's like studying computer science and math at Amherst College.
-
-
-### Contact me:
+I'm always eager to talk to other CS-enthusiasts who may be starting out or are well into their journey. Feel free to reach out and ask or say anything!
 - [LinkedIn](https://www.linkedin.com/in/alexander-guel-2664a626b/)
 - [GitHub](https://github.com/allx-g)
 - [dev.to](https://dev.to/allxg)
