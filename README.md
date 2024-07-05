@@ -1,4 +1,4 @@
-# Hey there! 👋
+# Hello world! 👋
 
 I’m _Alex_, a programmer excited about the vast land of _web development_.
 
