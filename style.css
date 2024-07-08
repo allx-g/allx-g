@@ -1,0 +1,63 @@
+/* GLOBAL STYLES =========================== */
+* {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	font-family: "Inter";
+}
+
+a {
+	text-decoration: none;
+	color: black;
+}
+
+/* START ==================================== */
+.start {
+	display: flex;
+	align-items: center;
+	height: 100vh;
+}
+
+.start > * {
+	flex: 1;
+	display: grid;
+	place-content: center;
+	text-align: center;
+	height: 100vh;
+}
+
+.start .left {
+	background: purple;
+}
+
+.start .left a {
+	color: white;
+}
+
+.start .left a:hover {
+	color: black;
+}
+
+.start .right {
+	background: palegoldenrod;
+}
+
+.start .right a:hover {
+	color: white;
+}
+/* PROFESSIONAL =============================== */
+section#allx-g {
+	background: purple;
+}
+
+/* PERSONAL ==================================== */
+section#alex-g {
+	background: lightgreen;
+}
+
+.hidden {
+	display: none;
+}
