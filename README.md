@@ -26,7 +26,6 @@ to_learn.append('Express.js')
 
 ### 💬 Contact me!
 
-I'm always eager to talk to other CS-enthusiasts who may be starting out or are well into their journey. Feel free to reach out and ask or say anything! _I recently started a blog on Medium to share the more personal aspects of my software development journey in a more creative way! Check it out if you can!_
+I'm always eager to talk to other CS-enthusiasts who may be starting out or are well into their journey. Feel free to reach out and ask or say anything!
 
 -   [LinkedIn](https://www.linkedin.com/in/alexander-guel-2664a626b/)
--   [Medium](https://medium.com/@xgontheweb)
